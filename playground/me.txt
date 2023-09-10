@@ -1,5 +1,0 @@
-{{#user}}
-Name: Malay Kumar Behera
-Skills: HTML, CSS, JS, Next.js,React.js,MongoDB,Node.js,Express.js,REST APIs,C,JAVA,DSA
-Email: 21btcse33@gmail.com
-{{/user}}
